@@ -1,0 +1,9 @@
+🔹 Simple Sentiment Analyzer 🔹
+Enter a sentence (or type 'exit' to quit): good
+Sentiment: Positive 😀
+
+Enter a sentence (or type 'exit' to quit): boring...
+Sentiment: Negative 😡
+
+Enter a sentence (or type 'exit' to quit): ok ok
+Sentiment: Neutral 😐
